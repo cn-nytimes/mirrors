@@ -4,9 +4,9 @@
 <ol>
 <li><a href="https://d3h17ayt96lii4.cloudfront.net/" target="1">https://d3h17ayt96lii4.cloudfront.net/</a></li>
 <li><a href="https://d1u9dh21rrklz9.cloudfront.net/" target="2">https://d1u9dh21rrklz9.cloudfront.net/</a></li>
-<li><a href="https://d1crmek4rmrq5c.cloudfront.net/" target="3">https://d1crmek4rmrq5c.cloudfront.net/</a></li>
-<li><a href="https://d2m8dobcafl08u.cloudfront.net/" target="4">https://d2m8dobcafl08u.cloudfront.net/</a></li>
-<li><a href="https://nyt1.global.ssl.fastly.net/" target="5">https://nyt1.global.ssl.fastly.net/</a></li>
+<li><a href="https://d1d8olcghscezm.cloudfront.net/" target="3">https://d1d8olcghscezm.cloudfront.net/</a></li>
+<li><a href="https://nyt4.global.ssl.fastly.net/" target="4">https://nyt4.global.ssl.fastly.net/</a></li>
+<li><a href="https://d2ic5hlxxg46ag.cloudfront.net/" target="5">https://d2ic5hlxxg46ag.cloudfront.net/</a></li>
 <li><a href="https://nyt8.azurewebsites.net" target="6">https://nyt8.azurewebsites.net</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
