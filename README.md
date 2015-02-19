@@ -2,11 +2,11 @@
 <p>你正在访问纽约时报镜像网站页面，因为原网址在中国大陆被封锁。</p>
 <h2>免翻墙网站</h2>
 <ol>
-<li><a href="https://d1kr9ubbg59ob6.cloudfront.net/" target="1">https://d1kr9ubbg59ob6.cloudfront.net/</a></li>
+<li><a href="https://dbyoa1d6fa26y.cloudfront.net/" target="1">https://dbyoa1d6fa26y.cloudfront.net/</a></li>
 <li><a href="https://d1w45qhabl26ca.cloudfront.net/" target="2">https://d1w45qhabl26ca.cloudfront.net/</a></li>
-<li><a href="https://nyt6.global.ssl.fastly.net/" target="3">https://nyt6.global.ssl.fastly.net/</a></li>
-<li><a href="https://dav4mbastv8a0.cloudfront.net/" target="4">https://dav4mbastv8a0.cloudfront.net/</a></li>
-<li><a href="https://d14ufge6rsnlpy.cloudfront.net/" target="5">https://d14ufge6rsnlpy.cloudfront.net/</a></li>
+<li><a href="https://d1gvju21bnqlk7.cloudfront.net/" target="3">https://d1gvju21bnqlk7.cloudfront.net/</a></li>
+<li><a href="https://nyt6.global.ssl.fastly.net/" target="4">https://nyt6.global.ssl.fastly.net/</a></li>
+<li><a href="https://nyt9.global.ssl.fastly.net/" target="5">https://nyt9.global.ssl.fastly.net/</a></li>
 <li><a href="https://nyt8.azurewebsites.net" target="6">https://nyt8.azurewebsites.net</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
