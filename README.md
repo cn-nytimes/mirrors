@@ -4,8 +4,8 @@
 <ol>
 <li><a href="https://d1d8olcghscezm.cloudfront.net/" target="1">https://d1d8olcghscezm.cloudfront.net/</a></li>
 <li><a href="https://d2m8dobcafl08u.cloudfront.net/" target="2">https://d2m8dobcafl08u.cloudfront.net/</a></li>
-<li><a href="https://nyt2.global.ssl.fastly.net/" target="3">https://nyt2.global.ssl.fastly.net/</a></li>
-<li><a href="https://d2gmwuo53u3nug.cloudfront.net/" target="4">https://d2gmwuo53u3nug.cloudfront.net/</a></li>
+<li><a href="https://d2iugpu0nyf2uw.cloudfront.net/" target="3">https://d2iugpu0nyf2uw.cloudfront.net/</a></li>
+<li><a href="https://nyt7.global.ssl.fastly.net/" target="4">https://nyt7.global.ssl.fastly.net/</a></li>
 <li><a href="https://nyt5.global.ssl.fastly.net/" target="5">https://nyt5.global.ssl.fastly.net/</a></li>
 <li><a href="https://nyt8.azurewebsites.net" target="6">https://nyt8.azurewebsites.net</a></li>
 </ol>
