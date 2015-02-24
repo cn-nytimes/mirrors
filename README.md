@@ -2,10 +2,10 @@
 <p>你正在访问纽约时报镜像网站页面，因为原网址在中国大陆被封锁。</p>
 <h2>免翻墙网站</h2>
 <ol>
-<li><a href="https://d1crmek4rmrq5c.cloudfront.net/" target="1">https://d1crmek4rmrq5c.cloudfront.net/</a></li>
-<li><a href="https://d1gvju21bnqlk7.cloudfront.net/" target="2">https://d1gvju21bnqlk7.cloudfront.net/</a></li>
-<li><a href="https://d1d8olcghscezm.cloudfront.net/" target="3">https://d1d8olcghscezm.cloudfront.net/</a></li>
-<li><a href="https://d1w45qhabl26ca.cloudfront.net/" target="4">https://d1w45qhabl26ca.cloudfront.net/</a></li>
+<li><a href="https://d1gvju21bnqlk7.cloudfront.net/" target="1">https://d1gvju21bnqlk7.cloudfront.net/</a></li>
+<li><a href="https://nyt2.global.ssl.fastly.net/" target="2">https://nyt2.global.ssl.fastly.net/</a></li>
+<li><a href="https://d2wyl5qgfaffk1.cloudfront.net/" target="3">https://d2wyl5qgfaffk1.cloudfront.net/</a></li>
+<li><a href="https://d1crmek4rmrq5c.cloudfront.net/" target="4">https://d1crmek4rmrq5c.cloudfront.net/</a></li>
 <li><a href="https://d1eo0ryngmtyn5.cloudfront.net/" target="5">https://d1eo0ryngmtyn5.cloudfront.net/</a></li>
 <li><a href="https://nyt8.azurewebsites.net" target="6">https://nyt8.azurewebsites.net</a></li>
 </ol>
