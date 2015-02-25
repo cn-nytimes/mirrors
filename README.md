@@ -3,9 +3,9 @@
 <h2>免翻墙网站</h2>
 <ol>
 <li><a href="https://nyt7.global.ssl.fastly.net/" target="1">https://nyt7.global.ssl.fastly.net/</a></li>
-<li><a href="https://d1d8olcghscezm.cloudfront.net/" target="2">https://d1d8olcghscezm.cloudfront.net/</a></li>
-<li><a href="https://d2ic5hlxxg46ag.cloudfront.net/" target="3">https://d2ic5hlxxg46ag.cloudfront.net/</a></li>
-<li><a href="https://nyt4.global.ssl.fastly.net/" target="4">https://nyt4.global.ssl.fastly.net/</a></li>
+<li><a href="https://d2iugpu0nyf2uw.cloudfront.net/" target="2">https://d2iugpu0nyf2uw.cloudfront.net/</a></li>
+<li><a href="https://nyt1.global.ssl.fastly.net/" target="3">https://nyt1.global.ssl.fastly.net/</a></li>
+<li><a href="https://d1d8olcghscezm.cloudfront.net/" target="4">https://d1d8olcghscezm.cloudfront.net/</a></li>
 <li><a href="https://d1u9dh21rrklz9.cloudfront.net/" target="5">https://d1u9dh21rrklz9.cloudfront.net/</a></li>
 <li><a href="https://nyt8.azurewebsites.net" target="6">https://nyt8.azurewebsites.net</a></li>
 </ol>
