@@ -3,10 +3,10 @@
 <h2>免翻墙网站</h2>
 <ol>
 <li><a href="https://d1u9dh21rrklz9.cloudfront.net/" target="1">https://d1u9dh21rrklz9.cloudfront.net/</a></li>
-<li><a href="https://nyt2.global.ssl.fastly.net/" target="2">https://nyt2.global.ssl.fastly.net/</a></li>
-<li><a href="https://dbyoa1d6fa26y.cloudfront.net/" target="3">https://dbyoa1d6fa26y.cloudfront.net/</a></li>
-<li><a href="https://d2iugpu0nyf2uw.cloudfront.net/" target="4">https://d2iugpu0nyf2uw.cloudfront.net/</a></li>
-<li><a href="https://d2gmwuo53u3nug.cloudfront.net/" target="5">https://d2gmwuo53u3nug.cloudfront.net/</a></li>
+<li><a href="https://dbyoa1d6fa26y.cloudfront.net/" target="2">https://dbyoa1d6fa26y.cloudfront.net/</a></li>
+<li><a href="https://d2gmwuo53u3nug.cloudfront.net/" target="3">https://d2gmwuo53u3nug.cloudfront.net/</a></li>
+<li><a href="https://nyt2.global.ssl.fastly.net/" target="4">https://nyt2.global.ssl.fastly.net/</a></li>
+<li><a href="https://d2m8dobcafl08u.cloudfront.net/" target="5">https://d2m8dobcafl08u.cloudfront.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
 <p>
