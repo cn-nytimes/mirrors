@@ -5,7 +5,7 @@
 <li><a href="https://d1ul2gmffx4xs7.cloudfront.net/" target="1">https://d1ul2gmffx4xs7.cloudfront.net/</a></li>
 <li><a href="https://d1eo0ryngmtyn5.cloudfront.net/" target="2">https://d1eo0ryngmtyn5.cloudfront.net/</a></li>
 <li><a href="https://d1gvju21bnqlk7.cloudfront.net/" target="3">https://d1gvju21bnqlk7.cloudfront.net/</a></li>
-<li><a href="https://d2iugpu0nyf2uw.cloudfront.net/" target="4">https://d2iugpu0nyf2uw.cloudfront.net/</a></li>
+<li><a href="https://d2ic5hlxxg46ag.cloudfront.net/" target="4">https://d2ic5hlxxg46ag.cloudfront.net/</a></li>
 <li><a href="https://d1crmek4rmrq5c.cloudfront.net/" target="5">https://d1crmek4rmrq5c.cloudfront.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
