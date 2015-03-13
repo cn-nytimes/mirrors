@@ -4,8 +4,8 @@
 <ol>
 <li><a href="https://dpbsblaa27u2l.cloudfront.net/" target="1">https://dpbsblaa27u2l.cloudfront.net/</a></li>
 <li><a href="https://dsj30x945kva8.cloudfront.net/" target="2">https://dsj30x945kva8.cloudfront.net/</a></li>
-<li><a href="https://ny8.global.ssl.fastly.net/" target="3">https://ny8.global.ssl.fastly.net/</a></li>
-<li><a href="https://d1iq73pz6vobho.cloudfront.net/" target="4">https://d1iq73pz6vobho.cloudfront.net/</a></li>
+<li><a href="https://ny6.global.ssl.fastly.net/" target="3">https://ny6.global.ssl.fastly.net/</a></li>
+<li><a href="https://ny7.global.ssl.fastly.net/" target="4">https://ny7.global.ssl.fastly.net/</a></li>
 <li><a href="https://d1spj12sc7e4xk.cloudfront.net/" target="5">https://d1spj12sc7e4xk.cloudfront.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
