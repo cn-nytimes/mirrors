@@ -3,8 +3,8 @@
 <h2>免翻墙网站</h2>
 <ol>
 <li><a href="https://ny10.global.ssl.fastly.net/" target="1">https://ny10.global.ssl.fastly.net/</a></li>
-<li><a href="https://ny11.global.ssl.fastly.net/" target="2">https://ny11.global.ssl.fastly.net/</a></li>
-<li><a href="https://ny9.global.ssl.fastly.net/" target="3">https://ny9.global.ssl.fastly.net/</a></li>
+<li><a href="https://ny9.global.ssl.fastly.net/" target="2">https://ny9.global.ssl.fastly.net/</a></li>
+<li><a href="https://ny11.global.ssl.fastly.net/" target="3">https://ny11.global.ssl.fastly.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
 <p>
