@@ -3,9 +3,9 @@
 <h2>免翻墙网站</h2>
 <ol>
 <li><a href="https://d18aivqqvb7zv1.cloudfront.net/" target="1">https://d18aivqqvb7zv1.cloudfront.net/</a></li>
-<li><a href="https://d2gdtgbwh92fx7.cloudfront.net/" target="2">https://d2gdtgbwh92fx7.cloudfront.net/</a></li>
-<li><a href="https://db2ywah86wj5b.cloudfront.net/" target="3">https://db2ywah86wj5b.cloudfront.net/</a></li>
-<li><a href="https://d1uvehqt9n5kbe.cloudfront.net/" target="4">https://d1uvehqt9n5kbe.cloudfront.net/</a></li>
+<li><a href="https://d1uvehqt9n5kbe.cloudfront.net/" target="2">https://d1uvehqt9n5kbe.cloudfront.net/</a></li>
+<li><a href="https://d2gdtgbwh92fx7.cloudfront.net/" target="3">https://d2gdtgbwh92fx7.cloudfront.net/</a></li>
+<li><a href="https://db2ywah86wj5b.cloudfront.net/" target="4">https://db2ywah86wj5b.cloudfront.net/</a></li>
 <li><a href="https://d248vmlhhlizvm.cloudfront.net/" target="5">https://d248vmlhhlizvm.cloudfront.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
