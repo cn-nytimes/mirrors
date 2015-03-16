@@ -2,9 +2,9 @@
 <p>你正在访问纽约时报镜像网站页面，因为原网址在中国大陆被封锁。</p>
 <h2>免翻墙网站</h2>
 <ol>
-<li><a href="https://d1dqx91p2uadmw.cloudfront.net/" target="1">https://d1dqx91p2uadmw.cloudfront.net/</a></li>
+<li><a href="https://d28q8bz7q2kx4q.cloudfront.net/" target="1">https://d28q8bz7q2kx4q.cloudfront.net/</a></li>
 <li><a href="https://d2eikhd9e83v81.cloudfront.net/" target="2">https://d2eikhd9e83v81.cloudfront.net/</a></li>
-<li><a href="https://d28q8bz7q2kx4q.cloudfront.net/" target="3">https://d28q8bz7q2kx4q.cloudfront.net/</a></li>
+<li><a href="https://d1dqx91p2uadmw.cloudfront.net/" target="3">https://d1dqx91p2uadmw.cloudfront.net/</a></li>
 <li><a href="https://dlxi9ddd6fxyg.cloudfront.net/" target="4">https://dlxi9ddd6fxyg.cloudfront.net/</a></li>
 <li><a href="https://d2nm3w2ltn97dw.cloudfront.net/" target="5">https://d2nm3w2ltn97dw.cloudfront.net/</a></li>
 </ol>
