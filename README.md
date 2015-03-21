@@ -2,8 +2,8 @@
 <p>你正在访问纽约时报镜像网站页面，因为原网址在中国大陆被封锁。</p>
 <h2>免翻墙网站</h2>
 <ol>
-<li><a href="https://d3qx1psi7fmjqy.cloudfront.net/" target="1">https://d3qx1psi7fmjqy.cloudfront.net/</a></li>
-<li><a href="https://d2v29rtf3cd60k.cloudfront.net/" target="2">https://d2v29rtf3cd60k.cloudfront.net/</a></li>
+<li><a href="https://d2v29rtf3cd60k.cloudfront.net/" target="1">https://d2v29rtf3cd60k.cloudfront.net/</a></li>
+<li><a href="https://d3qx1psi7fmjqy.cloudfront.net/" target="2">https://d3qx1psi7fmjqy.cloudfront.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
 <p>
