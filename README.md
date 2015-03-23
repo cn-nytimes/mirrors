@@ -4,9 +4,9 @@
 <ol>
 <li><a href="https://wam-nyt1.azurewebsites.net/" target="1">https://wam-nyt1.azurewebsites.net/</a></li>
 <li><a href="https://d1mkik9mtowawm.cloudfront.net/" target="2">https://d1mkik9mtowawm.cloudfront.net/</a></li>
-<li><a href="https://d3sbl0jaxhmbpr.cloudfront.net/" target="3">https://d3sbl0jaxhmbpr.cloudfront.net/</a></li>
-<li><a href="https://dg1pdkx7by2y.cloudfront.net/" target="4">https://dg1pdkx7by2y.cloudfront.net/</a></li>
-<li><a href="https://d2m6o8rck7q8tf.cloudfront.net/" target="5">https://d2m6o8rck7q8tf.cloudfront.net/</a></li>
+<li><a href="https://d2m6o8rck7q8tf.cloudfront.net/" target="3">https://d2m6o8rck7q8tf.cloudfront.net/</a></li>
+<li><a href="https://d3sbl0jaxhmbpr.cloudfront.net/" target="4">https://d3sbl0jaxhmbpr.cloudfront.net/</a></li>
+<li><a href="https://dg1pdkx7by2y.cloudfront.net/" target="5">https://dg1pdkx7by2y.cloudfront.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
 <p>
