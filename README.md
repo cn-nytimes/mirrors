@@ -3,8 +3,8 @@
 <h2>免翻墙网站</h2>
 <ol>
 <li><a href="https://wam-nyt4.azurewebsites.net/" target="1">https://wam-nyt4.azurewebsites.net/</a></li>
-<li><a href="https://wam-nyt.azurewebsites.net/" target="2">https://wam-nyt.azurewebsites.net/</a></li>
-<li><a href="https://d35jrq19vb5puk.cloudfront.net/" target="3">https://d35jrq19vb5puk.cloudfront.net/</a></li>
+<li><a href="https://d35jrq19vb5puk.cloudfront.net/" target="2">https://d35jrq19vb5puk.cloudfront.net/</a></li>
+<li><a href="https://wam-nyt.azurewebsites.net/" target="3">https://wam-nyt.azurewebsites.net/</a></li>
 <li><a href="https://d3qx1psi7fmjqy.cloudfront.net/" target="4">https://d3qx1psi7fmjqy.cloudfront.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
