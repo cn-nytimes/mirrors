@@ -3,8 +3,8 @@
 <h2>免翻墙网站</h2>
 <ol>
 <li><a href="https://d35jrq19vb5puk.cloudfront.net/" target="1">https://d35jrq19vb5puk.cloudfront.net/</a></li>
-<li><a href="https://d3mekk3fap9pzj.cloudfront.net/" target="2">https://d3mekk3fap9pzj.cloudfront.net/</a></li>
-<li><a href="https://d2v29rtf3cd60k.cloudfront.net/" target="3">https://d2v29rtf3cd60k.cloudfront.net/</a></li>
+<li><a href="https://d2v29rtf3cd60k.cloudfront.net/" target="2">https://d2v29rtf3cd60k.cloudfront.net/</a></li>
+<li><a href="https://d3mekk3fap9pzj.cloudfront.net/" target="3">https://d3mekk3fap9pzj.cloudfront.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
 <p>
