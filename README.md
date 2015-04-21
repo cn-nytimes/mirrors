@@ -3,10 +3,10 @@
 <h2>免翻墙网站</h2>
 <ol>
 <li><a href="https://nyt9.azurewebsites.net/" target="1">https://nyt9.azurewebsites.net/</a></li>
-<li><a href="https://dzmmodj8j317g.cloudfront.net/" target="2">https://dzmmodj8j317g.cloudfront.net/</a></li>
-<li><a href="https://d2gbs3a4q1p4q9.cloudfront.net/" target="3">https://d2gbs3a4q1p4q9.cloudfront.net/</a></li>
+<li><a href="https://d1qhfpvunmk15a.cloudfront.net/" target="2">https://d1qhfpvunmk15a.cloudfront.net/</a></li>
+<li><a href="https://d3jri41xoft0v0.cloudfront.net/" target="3">https://d3jri41xoft0v0.cloudfront.net/</a></li>
 <li><a href="https://d1jrgar08cs9fx.cloudfront.net/" target="4">https://d1jrgar08cs9fx.cloudfront.net/</a></li>
-<li><a href="https://d1qhfpvunmk15a.cloudfront.net/" target="5">https://d1qhfpvunmk15a.cloudfront.net/</a></li>
+<li><a href="https://d2gbs3a4q1p4q9.cloudfront.net/" target="5">https://d2gbs3a4q1p4q9.cloudfront.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
 <p>
