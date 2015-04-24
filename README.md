@@ -2,11 +2,11 @@
 <p>你正在访问纽约时报镜像网站页面，因为原网址在中国大陆被封锁。</p>
 <h2>免翻墙网站</h2>
 <ol>
-<li><a href="https://dpwtjiva2kpfa.cloudfront.net/" target="1">https://dpwtjiva2kpfa.cloudfront.net/</a></li>
-<li><a href="https://d28q8bz7q2kx4q.cloudfront.net/" target="2">https://d28q8bz7q2kx4q.cloudfront.net/</a></li>
-<li><a href="https://d1qhfpvunmk15a.cloudfront.net/" target="3">https://d1qhfpvunmk15a.cloudfront.net/</a></li>
-<li><a href="https://d1dqx91p2uadmw.cloudfront.net/" target="4">https://d1dqx91p2uadmw.cloudfront.net/</a></li>
-<li><a href="https://d1lolrvphlecio.cloudfront.net/" target="5">https://d1lolrvphlecio.cloudfront.net/</a></li>
+<li><a href="https://d96l1cc3q0ahk.cloudfront.net/" target="1">https://d96l1cc3q0ahk.cloudfront.net/</a></li>
+<li><a href="https://d1lolrvphlecio.cloudfront.net/" target="2">https://d1lolrvphlecio.cloudfront.net/</a></li>
+<li><a href="https://d1dqx91p2uadmw.cloudfront.net/" target="3">https://d1dqx91p2uadmw.cloudfront.net/</a></li>
+<li><a href="https://d28q8bz7q2kx4q.cloudfront.net/" target="4">https://d28q8bz7q2kx4q.cloudfront.net/</a></li>
+<li><a href="https://dpwtjiva2kpfa.cloudfront.net/" target="5">https://dpwtjiva2kpfa.cloudfront.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
 <p>
