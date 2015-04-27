@@ -2,10 +2,10 @@
 <p>你正在访问纽约时报镜像网站页面，因为原网址在中国大陆被封锁。</p>
 <h2>免翻墙网站</h2>
 <ol>
-<li><a href="https://nyt9.azurewebsites.net/" target="1">https://nyt9.azurewebsites.net/</a></li>
-<li><a href="https://d8sh4xake134y.cloudfront.net/" target="2">https://d8sh4xake134y.cloudfront.net/</a></li>
-<li><a href="https://nyt10.azurewebsites.net/" target="3">https://nyt10.azurewebsites.net/</a></li>
-<li><a href="https://d1qhfpvunmk15a.cloudfront.net/" target="4">https://d1qhfpvunmk15a.cloudfront.net/</a></li>
+<li><a href="https://nyt10.azurewebsites.net/" target="1">https://nyt10.azurewebsites.net/</a></li>
+<li><a href="https://d1qez32nzze8me.cloudfront.net/" target="2">https://d1qez32nzze8me.cloudfront.net/</a></li>
+<li><a href="https://d1qhfpvunmk15a.cloudfront.net/" target="3">https://d1qhfpvunmk15a.cloudfront.net/</a></li>
+<li><a href="https://nyt9.azurewebsites.net/" target="4">https://nyt9.azurewebsites.net/</a></li>
 <li><a href="https://d2gbs3a4q1p4q9.cloudfront.net/" target="5">https://d2gbs3a4q1p4q9.cloudfront.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
