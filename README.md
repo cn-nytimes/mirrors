@@ -2,11 +2,11 @@
 <p>你正在访问纽约时报镜像网站页面，因为原网址在中国大陆被封锁。</p>
 <h2>免翻墙网站</h2>
 <ol>
-<li><a href="https://d9e5q1rnx0ve9.cloudfront.net/" target="1">https://d9e5q1rnx0ve9.cloudfront.net/</a></li>
-<li><a href="https://d8sh4xake134y.cloudfront.net/" target="2">https://d8sh4xake134y.cloudfront.net/</a></li>
-<li><a href="https://wam-nyt5.azurewebsites.net/" target="3">https://wam-nyt5.azurewebsites.net/</a></li>
-<li><a href="https://nyt11.azurewebsites.net/" target="4">https://nyt11.azurewebsites.net/</a></li>
-<li><a href="https://d3jri41xoft0v0.cloudfront.net/" target="5">https://d3jri41xoft0v0.cloudfront.net/</a></li>
+<li><a href="https://d3jri41xoft0v0.cloudfront.net/" target="1">https://d3jri41xoft0v0.cloudfront.net/</a></li>
+<li><a href="https://nyt11.azurewebsites.net/" target="2">https://nyt11.azurewebsites.net/</a></li>
+<li><a href="https://d8sh4xake134y.cloudfront.net/" target="3">https://d8sh4xake134y.cloudfront.net/</a></li>
+<li><a href="https://d9e5q1rnx0ve9.cloudfront.net/" target="4">https://d9e5q1rnx0ve9.cloudfront.net/</a></li>
+<li><a href="https://wam-nyt5.azurewebsites.net/" target="5">https://wam-nyt5.azurewebsites.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
 <p>
