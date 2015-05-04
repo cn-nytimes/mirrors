@@ -6,7 +6,7 @@
 <li><a href="https://dtl1al4e74u07.cloudfront.net/" target="2">https://dtl1al4e74u07.cloudfront.net/</a></li>
 <li><a href="https://d33uxjz28fpmpx.cloudfront.net/" target="3">https://d33uxjz28fpmpx.cloudfront.net/</a></li>
 <li><a href="https://d8sh4xake134y.cloudfront.net/" target="4">https://d8sh4xake134y.cloudfront.net/</a></li>
-<li><a href="https://nyt11.azurewebsites.net/" target="5">https://nyt11.azurewebsites.net/</a></li>
+<li><a href="https://wam-nyt5.azurewebsites.net/" target="5">https://wam-nyt5.azurewebsites.net/</a></li>
 </ol>
 <h2>免翻墙iPhone/iPad应用</h2>
 <p>
